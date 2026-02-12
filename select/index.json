@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "非lie心",
+  "base_artist": "Tani Yuuki",
+  "createdAt": "2026-02-12T17:15:45.556582Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "非lie心",
+      "artist": "Tani Yuuki",
+      "has_synced": false,
+      "path": "select/pl_01_非lie心_Tani_Yuuki.txt"
+    }
+  ]
+}
